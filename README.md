@@ -293,5 +293,5 @@ This project is an introduction to SQL for data analysts, covering database setu
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions or feedback, feel free to get in touch!
 
-- **LinkedIn**: [Add your profile link]
-- **GitHub**: [Add your profile link]
+- **LinkedIn**: www.linkedin.com/in/srajan-sharma-
+- **GitHub**: https://github.com/SrajanSharmacreator
